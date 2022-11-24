@@ -1,0 +1,16 @@
+{
+  "name": "3d-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.56.1",
+    "three": "^0.146.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "@types/three": "^0.146.0",
+    "parcel": "^2.8.0"
+  }
+}
