@@ -4,6 +4,9 @@
   "description": "",
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
   "dependencies": {
     "sass": "^1.56.1",
     "three": "^0.146.0"
