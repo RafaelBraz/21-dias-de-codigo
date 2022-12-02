@@ -5,7 +5,7 @@
 - [x] Desafio 01: Crie um repositório para listar os projetos desenvolvidos
 - [x] Desafio 02: Faça um Hello World customizado com fontes, cores e imagens
 - [x] Desafio 03: Crie um botão animado
-- [ ] Desafio 04: Crie uma calculadora
+- [x] Desafio 04: Crie uma calculadora
 - [ ] Desafio 05: Desenvolva uma página 404 customizada que exiba o erro 404
 - [ ] Desafio 06: Crie um card com efeito glassmorphism
 - [ ] Desafio 07: Desenvolva um contador
