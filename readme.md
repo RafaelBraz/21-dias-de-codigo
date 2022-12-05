@@ -17,7 +17,7 @@
 - [ ] Desafio 13: Desenvolva um menu responsivo
 - [ ] Desafio 14: Crie um formulário de quizzes
 - [ ] Desafio 15: Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício
-- [ ] Desafio 16: Desenvolva um site utilizando uma API p
+- [ ] Desafio 16: Desenvolva um site utilizando uma API pública
 - [ ] Desafio 17: Desenvolva um site que capture os eventos do teclado
 - [ ] Desafio 18: Desenvolva um gerador de senhas aleatórias
 - [ ] Desafio 19: Desenvolva um site que gere imagens aleatórias utilizando a API do Unsplash
