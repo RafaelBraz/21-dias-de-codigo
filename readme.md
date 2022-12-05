@@ -6,7 +6,7 @@
 - [x] Desafio 02: Faça um Hello World customizado com fontes, cores e imagens
 - [x] Desafio 03: Crie um botão animado
 - [x] Desafio 04: Crie uma calculadora
-- [ ] Desafio 05: Desenvolva uma página 404 customizada que exiba o erro 404
+- [x] Desafio 05: Desenvolva uma página 404 customizada que exiba o erro 404
 - [ ] Desafio 06: Crie um card com efeito glassmorphism
 - [ ] Desafio 07: Desenvolva um contador
 - [ ] Desafio 08: Desenvolva um toggle que altere o tema para claro ou escuro
