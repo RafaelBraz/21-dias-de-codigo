@@ -1,4 +1,4 @@
-# Desafio 02
+# Dia 02
 
 ## Criar um hello world diferente
 

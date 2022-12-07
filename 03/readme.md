@@ -1,4 +1,4 @@
-# Desafio 03
+# Dia 03
 
 ## Crie um botão animado
 

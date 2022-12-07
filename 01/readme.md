@@ -1,3 +1,3 @@
-# Desafio 01
+# Dia 01
 
 ## Criar um repositório
