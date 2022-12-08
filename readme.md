@@ -9,8 +9,8 @@
 - [x] Desafio 05: Desenvolva uma página 404 customizada que exiba o erro 404
 - [x] Desafio 06: Crie um card com efeito glassmorphism
 - [x] Desafio 07: Desenvolva um contador
-- [ ] Desafio 08: Desenvolva um toggle que altere o tema para claro ou escuro
-- [ ] Desafio 09: Crie uma animação de loading
+- [x] Desafio 08: Desenvolva um toggle que altere o tema para claro ou escuro
+- [x] Desafio 09: Crie uma animação de loading
 - [ ] Desafio 10: Utilize a lib Particle.js do JavaScrip
 - [ ] Desafio 11: Crie um layout de um formulário de login
 - [ ] Desafio 12: Desenvolva uma galeria de imagens

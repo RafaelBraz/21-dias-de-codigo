@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #202020;
+}
+
+.content {
+  position: relative;
+  width: 600px;
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 12px;
+}
+
+.content > .emoji {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  align-self: center;
+  font-size: 108px;
+}
