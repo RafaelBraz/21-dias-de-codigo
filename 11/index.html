@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./styles.css" />
+  <title>Document</title>
+</head>
+<body>
+  <main>
+    <form>
+      <label for="user-input">Username</label>
+      <input id="user-input" name="username" placeholder="username (user)" type="text" autocomplete="username" />
+  
+      <label for="password-input">Password</label>
+      <input id="password-input" name="password" placeholder="password (pass)" type="password" autocomplete="current-password" />
+
+      <div class="actions">
+        <button type="submit">Enviar</button>
+        <button type="reset">Cancelar</button>
+      </div>
+    </form>
+    <h1 id="message"></h1>
+  </main>
+
+  <script src="./index.js"></script>
+</body>
+</html>

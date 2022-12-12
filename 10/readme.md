@@ -1,6 +1,6 @@
-# Dia 09
+# Dia 10
 
-## Crie uma animação de loading
+## Utilize a lib Particle.js do JavaScript
 
 ### Observação
 
