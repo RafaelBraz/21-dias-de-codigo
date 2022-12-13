@@ -13,7 +13,7 @@
 - [x] Desafio 09: Crie uma animação de loading
 - [x] Desafio 10: Utilize a lib Particle.js do JavaScript
 - [x] Desafio 11: Crie um layout de um formulário de login
-- [ ] Desafio 12: Desenvolva uma galeria de imagens
+- [x] Desafio 12: Desenvolva uma galeria de imagens
 - [ ] Desafio 13: Desenvolva um menu responsivo
 - [ ] Desafio 14: Crie um formulário de quizzes
 - [ ] Desafio 15: Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício
