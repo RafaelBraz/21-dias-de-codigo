@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#D8D8D8"/>
+    <meta name="description" content="Project developed to 21 days of code challange. (Day 13)">
+    <link rel="manifest" href="./src/static/manifest.json">
+    <link rel="apple-touch-icon" href="./src/static/symbol-192.png">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Document</title>
+  </head>
+
+  <body>
+    <menu id="top-menu">
+      <ul class="links">
+        <li><a href="./">Home</a></li>
+        <li><a href="./projects.html">Projects</a></li>
+        <li><a href="./certificates.html">Certificates</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+      </ul>
+
+      <button
+        id="open-menu"
+        onclick="openSideBar()"
+        aria-label="Open side menu"
+      ></button>
+    </menu>
+    
+    <div id="sidebar" class="hidden">
+      <ul class="links">
+        <li><a href="./">Home</a></li>
+        <li><a href="./projects.html">Projects</a></li>
+        <li><a href="./certificates.html">Certificates</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+      </ul>
+    </div>
+
+    <main>
+      <h1>Certificates</h1>
+    </main>
+
+    <script src="./index.js"></script>
+  </body>
+</html>

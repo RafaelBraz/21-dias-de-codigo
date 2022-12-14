@@ -1,0 +1,27 @@
+{
+  "name": "RafaelBraz",
+  "short_name": "Rafa",
+  "theme_color": "#2e8540",
+  "background_color": "#D8D8D8",
+  "display": "standalone",
+  "scope": "/21-dias-de-codigo/13/",
+  "start_url": "http://127.0.0.1:5500/21-dias-de-codigo/13/",
+  "description": "Rafael Braz's Portfolio",
+  "orientation": "any",
+  "icons": [
+      {
+        "src": "./symbol-192.png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./symbol.png",
+        "sizes": "267x267",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },{
+        "src": "./symbol-512.png",
+        "sizes": "512x512"
+      }
+  ],
+  "prefer_related_applications": true
+}
